@@ -1,6 +1,6 @@
 # 482_final_project
 
-cide and dataset for the final project of CS482
+
 
 This is the final project folder for CS482. 
 
